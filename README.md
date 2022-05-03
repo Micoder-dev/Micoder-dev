@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mugunthan</h1>
-<h3 align="center">Android Application developer | Web developer | Programmer</h3>
+<h3 align="center">Android Application developer | Programmer | Web developer</h3>
 
 - 🔭 I’m currently working on **Multiple Android Applications**
 
