@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mugunthan</h1>
 <h3 align="center">Android Application developer | Web developer | Programmer</h3>
 
-- 🔭 I’m currently working on **Multiple Applications**
+- 🔭 I’m currently working on **Multiple Android Applications**
 
-- 🌱 I’m currently learning **Android Application development**
+- 🌱 I’m currently learning **Android Application Development**
 
 - 👯 I’m looking to collaborate on **many Open Source Project**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android App Development**
 
 - 📫 How to reach me **micoder.com@gmail.com**
 
