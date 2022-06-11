@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **Android Application development**
+- 🌱 I’m currently learning **Android & Web Development**
 
-- 👯 I’m looking to collaborate on **many Open Source Project**
+- 👯 I’m looking to collaborate on **many Open Source Projects**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android & Web Development**
 
 - 📫 How to reach me **micoder.com@gmail.com**
 
