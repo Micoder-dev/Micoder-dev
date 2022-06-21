@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **many Open Source Projects**
 
-- 💬 Ask me about **Android & Web Development**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **micoder.com@gmail.com**
 
-- ⚡ Fun fact **Coding is Fun...**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
