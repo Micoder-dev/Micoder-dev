@@ -6,7 +6,7 @@
 
 A non IT student who completely involved in programming
 
-Skills: C, C++, JAVA, Android Development, Html/CSS/JS, MySQL, Firebase
+Skills: Java, Android & Web Development.
 
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning Android & Web development 
