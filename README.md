@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mugunthan
+### Hi there 👋, I am Mugunthan
 #### Android Developer
 ![Android Developer](https://micoder-dev.github.io/files/banner.png)
 
