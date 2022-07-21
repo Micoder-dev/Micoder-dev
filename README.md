@@ -27,3 +27,5 @@ Skills: Java, Android & Web Development.
 ![GitHub metrics](https://metrics.lecoq.io/Micoder-dev)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
