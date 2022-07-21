@@ -26,4 +26,8 @@ Skills: Java, Android & Web Development.
 
 ![GitHub metrics](https://metrics.lecoq.io/Micoder-dev)  
 
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev)  
