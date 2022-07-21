@@ -22,12 +22,10 @@ Skills: Java, Android & Web Development.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Micoder-dev)  
-
-![GitHub metrics](https://metrics.lecoq.io/Micoder-dev)  
-
   <br/>
    <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+![GitHub metrics](https://metrics.lecoq.io/Micoder-dev)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev)  
