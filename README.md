@@ -10,7 +10,6 @@ Skills: Java, Android & Web Development.
 
 - 🔭 I’m currently working on Android Development 
 - 🌱 I’m currently learning Android & Web development 
-- 🤔 I’m looking for help with My Android Projects 
 - 💬 Ask me about Android Development 
 - 📫 How to reach me: micoder.com@gmail.com 
 - ⚡ Fun fact: Coding is Fun. 
