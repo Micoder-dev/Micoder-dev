@@ -19,8 +19,8 @@ Skills: Java, Android & Web Development.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Micoder-dev"/> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/> </p> 
 
 <p align="center"> <img src="https://metrics.lecoq.io/Micoder-dev"/> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/> </p> 
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Micoder-dev"/> </p>
