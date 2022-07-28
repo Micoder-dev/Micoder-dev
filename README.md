@@ -6,15 +6,19 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
 
-Skills: Java, Android & Web Development.
-
-- 🔭 I’m currently working on Android Development 
-- 🌱 I’m currently learning Android & Web development 
-- 💬 Ask me about Android Development 
-- 📫 How to reach me: micoder.com@gmail.com 
-- ⚡ Fun fact: Coding is Fun. 
-
-<img src="https://metrics.lecoq.io/Micoder-dev"/>
+<div class="left">
+    <img src="https://metrics.lecoq.io/Micoder-dev"/>
+</div>
+<div class="right">
+    <ul>
+        <li>Skills: Java, Android & Web Development. </li>
+        <li>- 🔭 I’m currently working on Android Development </li>
+        <li>- 🌱 I’m currently learning Android & Web development </li>
+        <li>- 💬 Ask me about Android Development </li>
+        <li>- 📫 How to reach me: micoder.com@gmail.com </li>
+        <li>- ⚡ Fun fact: Coding is Fun. </li>
+    </ul>
+</div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
 
