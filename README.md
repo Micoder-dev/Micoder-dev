@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Mugunthan
 #### Android Developer
-![Android Developer](<img src="https://micoder-dev.github.io/files/a5.gif")
+![Android Developer]
+<img src="https://micoder-dev.github.io/files/a5.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
