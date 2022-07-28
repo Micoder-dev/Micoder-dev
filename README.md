@@ -17,8 +17,8 @@ Skills: Java, Android & Web Development.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Micoder-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats]
-<img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
+![GitHub stats] </br>
+<img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true" align="center"/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Micoder-dev)  
 
