@@ -7,7 +7,8 @@
 <table>
   <tr>
       <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
-  </tr>  
+  </tr>
+  
   <tr>
     <td>
     <img src="https://metrics.lecoq.io/Micoder-dev"/> 
@@ -23,10 +24,7 @@
       </ul>  
     </td>
   </tr>
- </table>
- 
- 
-<table>
+  
   <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
@@ -35,6 +33,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/>
     </td>
   </tr>
- </table> 
+ </table>
 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Micoder-dev"/> </p>
