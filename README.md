@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
-A non IT student who completely involved in programming
-
 Skills: Java, Android & Web Development.
 
 - 🔭 I’m currently working on Android Development 
