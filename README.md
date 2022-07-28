@@ -12,7 +12,7 @@ Skills: Java, Android & Web Development.
 - 📫 How to reach me: micoder.com@gmail.com 
 - ⚡ Fun fact: Coding is Fun. 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=10"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
 
