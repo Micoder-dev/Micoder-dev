@@ -2,7 +2,7 @@
 #### Android Developer
 ![Android Developer](https://micoder-dev.github.io/files/a4.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev" height="200"/> </p>
 
 A non IT student who completely involved in programming
 
