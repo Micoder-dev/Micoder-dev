@@ -23,9 +23,17 @@
     </td>
   </tr>
  </table>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/> </p> 
+ 
+ 
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
+    </td>  
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/>
+    </td>
+  </tr>
+ </table> 
 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Micoder-dev"/> </p>
