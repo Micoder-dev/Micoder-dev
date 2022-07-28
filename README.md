@@ -6,7 +6,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
 
-<p align="center"> 
 Skills: Java, Android & Web Development.
 
 - 🔭 I’m currently working on Android Development 
@@ -15,7 +14,7 @@ Skills: Java, Android & Web Development.
 - 📫 How to reach me: micoder.com@gmail.com 
 - ⚡ Fun fact: Coding is Fun. 
 
-<img src="https://metrics.lecoq.io/Micoder-dev"/> </p>
+<img src="https://metrics.lecoq.io/Micoder-dev"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
 
