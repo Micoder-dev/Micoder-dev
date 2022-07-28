@@ -10,7 +10,7 @@
   <tr>
     <td>
       <ul>
-        <li>Skills: Java, Android & Web Development. </li>
+          Skills: Java, Android & Web Development. 
         <li>- 🔭 I’m currently working on Android Development </li>
         <li>- 🌱 I’m currently learning Android & Web development </li>
         <li>- 💬 Ask me about Android Development </li>
