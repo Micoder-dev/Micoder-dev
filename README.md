@@ -4,9 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
-
 <table>
+  <tr>
+      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
+  </tr>  
   <tr>
     <td>
     <img src="https://metrics.lecoq.io/Micoder-dev"/> 
