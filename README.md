@@ -2,7 +2,7 @@
 <h1 align="center"> Android Developer </h1>
 <p align="center"> <img src="https://micoder-dev.github.io/files/a3.gif" height="350"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
 A non IT student who completely involved in programming
 
