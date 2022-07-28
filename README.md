@@ -6,9 +6,7 @@
 
 <table>
   <tr>
-    <td>
       <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/>
-    </td>  
   </tr>
   
   <tr>
