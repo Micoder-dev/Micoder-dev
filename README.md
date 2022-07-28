@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
+
 Skills: Java, Android & Web Development.
 
 - 🔭 I’m currently working on Android Development 
@@ -11,8 +13,6 @@ Skills: Java, Android & Web Development.
 - 💬 Ask me about Android Development 
 - 📫 How to reach me: micoder.com@gmail.com 
 - ⚡ Fun fact: Coding is Fun. 
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/> </p>
 
