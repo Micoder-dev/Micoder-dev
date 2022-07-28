@@ -12,12 +12,14 @@
     <img src="https://metrics.lecoq.io/Micoder-dev"/> 
     </td>  
     <td>
+      <ul>
         <h3 align="center"> Skills: Java, Android & Web Development. </h3> 
         - 🔭 I’m currently working on Android Development
         - 🌱 I’m currently learning Android & Web development
         - 💬 Ask me about Android Development
         - 📫 How to reach me: micoder.com@gmail.com
         - ⚡ Fun fact: Coding is Fun.
+      </ul>  
     </td>
   </tr>
  </table>
