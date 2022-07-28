@@ -18,9 +18,9 @@
         <li>- ⚡ Fun fact: Coding is Fun. </li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td><img src="https://metrics.lecoq.io/Micoder-dev"/></td>
+    <td>
+    <img src="https://metrics.lecoq.io/Micoder-dev"/> 
+    </td>  
   </tr>
  </table>
 
