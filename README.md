@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
 
 <table>
-  <tr align="center">
+  <tr>
     <td>
     <img src="https://metrics.lecoq.io/Micoder-dev"/> 
     </td>  
@@ -26,7 +26,7 @@
  
  
 <table>
-  <tr align="center">
+  <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
     </td>  
