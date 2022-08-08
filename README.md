@@ -6,18 +6,27 @@
 
 <table>
   <tr>
-      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
+      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=6"/> </p>
   </tr>
-      <ul align="center">
-        <h3 align="center"> Skills: Java, Android & Web Development. </h3>
-        - 🔭 I’m currently working on Android Development
-        - 🌱 I’m currently learning Android & Web development
-        - 💬 Ask me about Android Development
-        - 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a>
-        - ⚡ Fun fact: Coding is Fun.
-      </ul>
+</table>
+
+<table align="center">
+    <tr>
+    <td>
+        <h3> Skills: Java, Android & Web Development. </h3>
+        <li> 🔭 I’m currently working on Android Development </li>
+        <li> 🌱 I’m currently learning Android & Web development </li>
+        <li> 💬 Ask me about Android Development </li>
+        <li> 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a> </li>
+        <li> ⚡ Fun fact: Coding is Fun. </li>
+    </td>
+    <td>
+      <img src="https://metrics.lecoq.io/Micoder-dev"/> 
+    </td>  
   </tr>
-  
+</table>
+
+<table>
   <tr>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
