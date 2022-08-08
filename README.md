@@ -10,10 +10,10 @@
   </tr>
       <ul>
         <h3 align="center"> Skills: Java, Android & Web Development. </h3>
-          - 🔭 I’m currently working on Android Development 
-         - 🌱 I’m currently learning Android & Web development
-        - 💬 Ask me about Android Development
-         - 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a> </li>
+        - 🔭 I’m currently working on Android Development </br>
+          - 🌱 I’m currently learning Android & Web development </br>
+          - 💬 Ask me about Android Development </br>
+          - 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a> </br>
           - ⚡ Fun fact: Coding is Fun.
       </ul>
   </tr>
