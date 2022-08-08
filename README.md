@@ -9,7 +9,7 @@
       <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
   </tr>
       <ul>
-        <h3 align="center"> Skills: Java, Android & Web Development.
+        <h3 align="center"> Skills: Java, Android & Web Development. </h3>
           - 🔭 I’m currently working on Android Development 
          - 🌱 I’m currently learning Android & Web development
         - 💬 Ask me about Android Development
