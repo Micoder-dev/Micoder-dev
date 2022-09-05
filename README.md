@@ -15,7 +15,7 @@
     <td>
         <h3> Skills: Java, Android & Web Development. </h3>
         <li> 🔭 I’m currently working on Android Development </li>
-        <li> 🌱 I’m currently learning Android & Web development </li>
+        <li> 🌱 I’m currently learning Android with Kotlin </li>
         <li> 💬 Ask me about Android Development </li>
         <li> 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a> </li>
         <li> ⚡ Fun fact: Coding is Fun. </li>
