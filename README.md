@@ -6,19 +6,18 @@
 
 <table>
   <tr>
-      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
+      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&theme=monokai&row=1&column=7"/> </p>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Micoder-dev&show_icons=true&count_private=true"/>
-    </td>  
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micoder-dev"/>
-    </td>
-  </tr>
- </table>
+<p align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micoder-dev&theme=gruvbox"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micoder-dev&theme=gruvbox"/>
+</p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Micoder-dev"/> </p>
+<p align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micoder-dev&theme=gruvbox"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=micoder-dev&theme=gruvbox&utcOffset=8"/>
+</p>
+
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micoder-dev&theme=gruvbox"/> </p>
