@@ -6,23 +6,7 @@
 
 <table>
   <tr>
-      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=6"/> </p>
-  </tr>
-</table>
-
-<table align="center">
-    <tr>
-    <td>
-        <h3> Skills: Java, Android & Web Development. </h3>
-        <li> 🔭 I’m currently working on Android Development </li>
-        <li> 🌱 I’m currently learning Android with Kotlin </li>
-        <li> 💬 Ask me about Android Development </li>
-        <li> 📫 How to reach me: <a href="mailto:micoder.com@gmail.com">micoder.com@gmail.com</a> </li>
-        <li> ⚡ Fun fact: Coding is Fun. </li>
-    </td>
-    <td>
-      <img src="https://metrics.lecoq.io/Micoder-dev"/> 
-    </td>  
+      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
   </tr>
 </table>
 
