@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <table>
   <tr>
       <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&theme=monokai&row=1&column=6"/> </p>
@@ -22,4 +24,3 @@
 
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micoder-dev&theme=gruvbox"/> </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
