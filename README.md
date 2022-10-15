@@ -6,20 +6,15 @@
 
 <table>
   <tr>
-      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&theme=monokai&row=1&column=6"/> </p>
+      <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7"/> </p>
   </tr>
 </table>
 
-<p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micoder-dev&theme=gruvbox"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micoder-dev&theme=gruvbox"/>
-</p>
+# 📊 GitHub Stats:
 
 <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micoder-dev&theme=gruvbox"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=micoder-dev&theme=gruvbox&utcOffset=8"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=micoder-dev&theme=default&hide_border=false&include_all_commits=false&count_private=true"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=micoder-dev&theme=default&hide_border=false"/>
 </p>
 
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micoder-dev&theme=gruvbox"/> </p>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
