@@ -1,7 +1,11 @@
-### Hi there 👋, I am Mugunthan [MI_CODER]
+### Hi there 👋, I am Mugunthan [MI_CODER]<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 <h1 align="center"> Android Developer </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=micoder-dev&label=Profile%20views&color=0e75b6&style=flat" alt="micoder-dev"/> </p>
 <p align="center"> <img src="https://micoder-dev.github.io/files/meme.jpg"/> </p>
+
+<img
+  src="https://github.com/Micoder-dev/Micoder-dev/blob/main/images/stat.svg"
+  alt="My WakaTime Activity"/>
 
 # 📊 GitHub Stats:
 
