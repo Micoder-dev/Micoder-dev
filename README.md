@@ -2,9 +2,11 @@
 
 # Hey, I'm Mugunthan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### Mobile & Desktop App Developer from Tamil Nadu, India
+<img src="images/butterfly.gif" width="25%"/><img src="images/dog.gif" width="15%"/>
 
-Passionate about mobile and desktop app development, utilizing **Jetpack Compose** to create seamless **Android**, **iOS**, and **Desktop** applications.
+### Mobile, Desktop & Android TV Developer from Tamil Nadu, India
+
+Passionate about app development using **Compose Multiplatform** to build seamless **Android**, **iOS**, **Desktop**, and **Android TV** applications.
 
 [![GitHub followers](https://img.shields.io/github/followers/Micoder-dev?style=flat&logo=github&label=Followers)](https://github.com/Micoder-dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=micoder-dev&color=blue&style=flat)](https://github.com/Micoder-dev)
@@ -15,10 +17,13 @@ Passionate about mobile and desktop app development, utilizing **Jetpack Compose
 
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=flat&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-%237F52FF.svg?style=flat&logo=jetbrains&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android%20TV-%233DDC84.svg?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=flat&logo=apple&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -32,8 +37,8 @@ Passionate about mobile and desktop app development, utilizing **Jetpack Compose
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micoder-dev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,prs_merged_percentage" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micoder-dev&layout=compact&theme=default&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats-rust-mu-36.vercel.app/api?username=micoder-dev&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=prs_merged,prs_merged_percentage" height="170"/>
+  <img src="https://github-readme-stats-rust-mu-36.vercel.app/api/top-langs/?username=micoder-dev&layout=compact&theme=default&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
@@ -41,7 +46,7 @@ Passionate about mobile and desktop app development, utilizing **Jetpack Compose
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Micoder-dev&row=1&column=7&no-frame=true&margin-w=6"/>
+  <img src="https://github-trophies.vercel.app/?username=Micoder-dev&row=1&column=7&no-frame=true&margin-w=6"/>
 </div>
 
 ---
