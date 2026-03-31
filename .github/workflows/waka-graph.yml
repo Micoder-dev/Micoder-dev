@@ -2,8 +2,6 @@ name: WakaTime status update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "1 0 * * *"
 
 jobs:
   update-readme:
